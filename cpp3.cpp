@@ -1,5 +1,5 @@
 #include "cpp3.h"
-
+/*
 int main() {
 	cpp3 c;
 	cout << "Enter a number: ";
@@ -8,3 +8,4 @@ int main() {
 	else cout << "The sum of the first " << c.n << " natural numbers is: " << c.sum(c.n) << endl;
 	return 0;
 }
+*/
