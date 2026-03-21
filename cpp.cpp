@@ -8,7 +8,7 @@ int day(int d, int n) {
 	if (d < 0) d+=7;
 	return day(d-1, n-1);
 }
-
+/*
 int main() {
 	int d, n;
 	cout << "Enter a day d = ";
@@ -21,3 +21,4 @@ int main() {
 
 	return 0;
 }
+*/
