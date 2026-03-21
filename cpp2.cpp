@@ -8,6 +8,7 @@ int lastDigit(int num) {
 	return num % 10;
 }
 
+/*
 int main() {
 	int num;
 	cout << "Enter a number: ";
@@ -17,3 +18,4 @@ int main() {
 
 	return 0;
 }
+*/
